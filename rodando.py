@@ -8,7 +8,7 @@ class trabalho():
         self.dunf=tk.Tk()
         self.dunf.geometry("1000x500+200+100")
         self.dunf.title("Pesquisa no predio")
-        self.dunf.iconbitmap("predio.ico")
+        self.dunf.iconbitmap("atv_2-fastech/predio.ico")
         self.dunf.resizable(0,0)
         self.qnt_pessoas=0
         self.coleta=[]
